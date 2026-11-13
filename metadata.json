@@ -1,0 +1,6 @@
+{
+  "name": "ATSPulse",
+  "description": "ATS resume score predictor, keyword gap diagnostic, and single-column ATS-safe resume builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
